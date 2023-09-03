@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PDF_Reader</string>
+    <string name="open_file">Open File</string>
+    <string name="third_party_licenses">3rd Party Licenses</string>
+    <string name="permission_insufficient">Permission is not sufficient. Read External Storage permission is needed.</string>
+    <string name="permission_granted">Permission Granted</string>
+</resources>
